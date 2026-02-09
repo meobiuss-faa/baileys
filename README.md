@@ -1,4 +1,4 @@
-# WhatsApp Baileys Xynoz
+# WhatsApp Baileys MEOBIUSS || FAA
 
 <p align="center">
   <img src="https://files.catbox.moe/369pux.jpg" alt="Thumbnail" />
@@ -31,7 +31,7 @@ Mulailah dengan menginstal pustaka melalui pengelola paket pilihan Anda, lalu ik
 ## Cara memakai?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:Xynoz-Xnoz/baileys"
+  "@whiskeysockets/baileys": "github:meobiuss-faa/baileys"
 }
 ```
 ## Import
@@ -122,13 +122,13 @@ await client.relayMessage(m.chat, {
     thumbnail: { url: "./YourImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/xynozdev",
+    url: "https://t.me/faastecuuuu",
     body: "Nak Tido",
     footer: "Footer",
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"Xynoz\",\"url\":\"https://t.me/xynozdev\"}"
+        buttonParamsJson: "{\"display_text\":\"faasenpaiii\",\"url\":\"https://t.me/faastecuuuu\"}"
       }
     ],
     priceAmount1000: 72502,
