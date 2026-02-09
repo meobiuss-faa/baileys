@@ -23,8 +23,7 @@ Pustaka ini sangat cocok untuk membangun bot bisnis, sistem otomatisasi obrolan,
 - Dokumentasi komprehensif dan contoh kode untuk mempermudah pengembangan
 ---
 
-## Spesial Thanks For Kayzen
-
+## Spesial Thanks For faastecuu 
 ## Memulai
 
 Mulailah dengan menginstal pustaka melalui pengelola paket pilihan Anda, lalu ikuti panduan konfigurasi yang disediakan. Anda juga dapat menggunakan kode contoh yang sudah jadi untuk memahami cara kerja fitur-fiturnya. Gunakan penyimpanan sesi dan fitur perpesanan interaktif untuk membangun solusi lengkap dan stabil yang disesuaikan dengan kebutuhan bisnis atau proyek Anda.
