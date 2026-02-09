@@ -1,16 +1,16 @@
 {
-    "name": "Xynoz-Xnoz/baileys",
+    "name": "meobiuss-faa/baileys",
     "version": "1.0.0",
     "description": "Have A Nice Day",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/Xynoz-Xnoz/baileys",
+    "homepage": "https://github.com/meobiuss-faa/baileys",
     "repository": {
-        "url": "https://github.com/Xynoz-Xnoz/baileys"
+        "url": "https://github.com/meobius-faa/baileys"
     },
     "license": "MIT",
-    "author": "Xynoz",
+    "author": "faa",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
